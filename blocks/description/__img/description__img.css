@@ -1,0 +1,6 @@
+.description__img { 
+  min-width: 50%;
+  max-height: 626px;
+  width: 100%;
+  object-fit: cover;
+}

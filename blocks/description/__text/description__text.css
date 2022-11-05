@@ -1,0 +1,8 @@
+.description__text {
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+
+.description__text:first-child {
+  margin-top: 0;
+}
